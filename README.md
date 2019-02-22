@@ -8,6 +8,7 @@ From the start of the data set, every succession of 3 images belongs to a differ
 The first image is a neutral face, the second image is a face with happy facial expression, and the third image has illumination variations. 
 
 Data Pre-processing
+
 The data file contained images of 200 subjects. Each subjects has 3 face images.
 The image have size 24 x 21. So the overall size of the data set was 24 x 21 x 600.
 We reshaped the data into a single matrix of size 504 x 600 using the reshape function in MATLAB.
