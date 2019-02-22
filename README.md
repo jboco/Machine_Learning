@@ -1,5 +1,6 @@
 # Machine_Learning
 Face Classification Project
+
 The purpose of this project is to perform face image classification using a Bayes classifier and a K-NN classifier.
 For this purpose, there is a data set that I divided into training and test samples. 
 In this Project, only the data set named “data.mat” was used. It is a 3-dimensional array consisting of 600 face images.
